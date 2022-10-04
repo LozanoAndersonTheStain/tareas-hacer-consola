@@ -1,0 +1,8 @@
+const colors = require('colors')
+
+const main = async () => {
+  console.clear()
+  console.log('Hola mundo'.cyan)
+}
+
+main()
